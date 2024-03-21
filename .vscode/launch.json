@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Ethiopia Cafe.html",
+            "file": "c:\\Users\\Ikram\\Desktop\\Landing Page\\Ethiopia Cafe.html"
+        }
+    ]
+}
